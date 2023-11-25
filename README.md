@@ -7,12 +7,17 @@ First, partition the range into a fixed number of buckets.
 Then, toss every element into its appropriate bucket.
 After that, sort each bucket individually by applying a sorting algorithm.
 And at last, concatenate all the sorted buckets.
+
 The advantages of bucket sort are -
+1. Bucket sort reduces the no. of comparisons.
+2. It is asymptotically fast because of the uniform distribution of elements.
 
-Bucket sort reduces the no. of comparisons.
-It is asymptotically fast because of the uniform distribution of elements.
 The limitations of bucket sort are -
+1. It may or may not be a stable sorting algorithm.
+2. It is not useful if we have a large array because it increases the cost.
 
-It may or may not be a stable sorting algorithm.
-It is not useful if we have a large array because it increases the cost.
-It is not an in-place sorting algorithm, because some extra space is required to sort the buckets.
+# Pre-requisites
+You must have ![RIPES Simulator](https://github.com/mortbopet/Ripes) installed. 
+
+# Usage
+Copt the code from ``
