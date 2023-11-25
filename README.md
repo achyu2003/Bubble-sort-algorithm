@@ -17,7 +17,8 @@ The limitations of bucket sort are -
 2. It is not useful if we have a large array because it increases the cost.
 
 # Pre-requisites
-You must have ![RIPES Simulator](https://github.com/mortbopet/Ripes) installed. 
+You must have [RIPES Simulator](https://github.com/mortbopet/Ripes) installed. 
 
 # Usage
-Copt the code from ``
+Copt the code from ``bubblesort.s`` and paste in RIPES Simulator.
+Go to memory output, `.data` to be able to see your required output
