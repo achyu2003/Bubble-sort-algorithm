@@ -4,8 +4,11 @@ Bucket sort is a sorting algorithm that separate the elements into multiple grou
 The basic procedure of performing the bucket sort is given as follows -
 
 First, partition the range into a fixed number of buckets.
+
 Then, toss every element into its appropriate bucket.
+
 After that, sort each bucket individually by applying a sorting algorithm.
+
 And at last, concatenate all the sorted buckets.
 
 The advantages of bucket sort are -
