@@ -22,3 +22,6 @@ You must have [RIPES Simulator](https://github.com/mortbopet/Ripes) installed.
 # Usage
 Copt the code from ``bubblesort.s`` and paste in RIPES Simulator.
 Go to memory output, `.data` to be able to see your required output
+
+# Note
+This is a project me and [Archanaa Chandaragi](https://github.com/Itryok) performed as part of our RISC-V Coursework at PES University.
